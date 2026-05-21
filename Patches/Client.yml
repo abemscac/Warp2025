@@ -260,7 +260,7 @@ IncrZoom:
         - Zoom75Percent:
             title : Increase Zoom Out (to 75%)
             recommend : no
-            author : Shinryo , Andrei Karas (4144) , Functor
+            author : Shinryo , Andrei Karas (4144) , Daraen1
             desc : Increases the zoom-out range to approx. 75% of Maximum.
         
         - ZoomMax:
