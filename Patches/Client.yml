@@ -267,7 +267,7 @@ IncrZoom:
             title : Increase Zoom Out (to 75%)
             recommend : no
             author : Shinryo , Andrei Karas (4144)
-            desc : Increases the zoom-out range to approx. 75% of Maximum. (Doesn't work on Gepard Shield)
+            desc : Increases the zoom-out range to approx. 75% of Maximum. (Doesn't work with Gepard Shield)
         
         - ZoomMax:
             title : Increase Zoom Out (to Max)
